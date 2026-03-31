@@ -42,7 +42,7 @@ rock-paper-scissor/
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
+(demo.png)
 
 ---
 
