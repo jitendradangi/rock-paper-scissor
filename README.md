@@ -46,13 +46,6 @@ rock-paper-scissor/
 ## 📸 Screenshots
 ![Demo Screenshot](demo.png)
 
----
-
-## 🔗 Live Demo
-
-(Add your live project link here if deployed)
-
----
 
 ## 🙌 Author
 
