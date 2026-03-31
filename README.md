@@ -41,7 +41,7 @@ rock-paper-scissor/
 ---
 
 ## 📸 Screenshots
-demo.png
+![Demo Screenshot](demo.png)
 
 ---
 
