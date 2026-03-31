@@ -1,5 +1,11 @@
 # 🎮 Rock Paper Scissors Game 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+</p>
+
 A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. This project allows users to play against the computer with real-time results and score tracking.
 
 ## 🔗 Live Demo
